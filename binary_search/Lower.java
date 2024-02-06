@@ -5,7 +5,7 @@
 import java.util.Arrays;
 
 // Main class
-public class GFG {
+public class Lower {
 
     // Method 1
     // Iterative approach to find lower bound
