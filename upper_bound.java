@@ -24,6 +24,6 @@ public class upper_bound {
             }
         }
         System.out.println(ans);
-        sc.close();
+        sc.close(); //best practise
     }
 }
