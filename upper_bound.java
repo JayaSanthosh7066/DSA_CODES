@@ -1,9 +1,7 @@
 import java.util.Scanner;
 
 public class upper_bound {
-
     public static void main(String[] args) {
-
         int n, mid = 0;
         Scanner sc = new Scanner(System.in);
         n = sc.nextInt();
@@ -24,6 +22,6 @@ public class upper_bound {
             }
         }
         System.out.println(ans);
-        sc.close(); //best practise
+        sc.close(); // best practise
     }
 }
