@@ -33,5 +33,6 @@ public class Linkedlist {
             System.out.println(kl.val);
             kl = kl.next;
         }
+        sc.close();
     }
 }
